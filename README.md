@@ -11,5 +11,10 @@
 
 ## 招聘信息
 
-1. [华为23届校招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)
+### 1. [华为23届校招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)
+
 虽然在官网展示的信息还是`华为2022届应届生全球招聘`，但是我已经在BOSS上收到好多招聘消息了🤔 有后续再继续补充。
+
+## 其他信息
+
+该节主要记录一些公司招聘的特点（比如养鱼不？风评如何等... 看到什么消息就记录什么上去吧）
