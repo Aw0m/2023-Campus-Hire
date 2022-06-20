@@ -11,4 +11,5 @@
 
 ## 招聘信息
 
-提前批还没开始，别急别急
+1. [华为23届校招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)
+虽然在官网展示的信息还是`华为2022届应届生全球招聘`，但是我已经在BOSS上收到好多招聘消息了🤔 有后续再继续补充。
