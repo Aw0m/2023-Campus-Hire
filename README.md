@@ -27,13 +27,15 @@
 - **笔试** 7月-10月
 - **面试** 7月中旬起
 
-![alt](img/mihoyo.jpg)
+- **内推码** `WK5W`
+<!-- ![alt](img/mihoyo.jpg) -->
 
 ### 2. [2023网易游戏雷火 秋季校园招聘](https://leihuo.163.com/campus/#/full)
 
 - **投递截止日期**：9月15日
 
-![alt](img/wangyi.jpg)
+- 内推码见`img/wangyi.jpg`
+<!-- ![alt](img/wangyi.jpg) -->
 
 ## 其他方向企业招聘信息
 
@@ -47,7 +49,7 @@
 
 - **内推码** `XYDS50596019`
 
-![alt](img/OPPO.jpg)
+<!-- ![alt](img/OPPO.jpg) -->
 
 ## 其他信息
 
