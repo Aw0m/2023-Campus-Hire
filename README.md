@@ -27,15 +27,27 @@
 - **笔试** 7月-10月
 - **面试** 7月中旬起
 
+![alt](img/mihoyo.jpg)
+
+### 2. [2023网易游戏雷火 秋季校园招聘](https://leihuo.163.com/campus/#/full)
+
+- **投递截止日期**：9月15日
+
+![alt](img/wangyi.jpg)
+
 ## 其他方向企业招聘信息
 
 ### 1. [华为23届校招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)
 
-虽然在官网展示的信息还是`华为2022届应届生全球招聘`，但是我已经在BOSS上收到好多招聘消息了🤔 有后续再继续补充。
+华为
 
 ### 2. [OPPO 2023届秋季校园招聘--提前批](https://careers.oppo.com/campus/)
 
 主要面向毕业时间`2022年8月-2023年7月`**中国大陆地区**的应届毕业生以及**其他地区**毕业时间为`2022年5月-2023年12月`的毕业生
+
+- **内推码** `XYDS50596019`
+
+![alt](img/OPPO.jpg)
 
 ## 其他信息
 
