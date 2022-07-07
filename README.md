@@ -1,10 +1,14 @@
-# 2022-Campus-Hire
+# 2023-Campus-Hire
 
-该repo主要用于记录国内2022年秋招大厂招聘信息。目前已经更新：
+该repo主要用于记录国内2023届秋招大厂招聘信息。目前已经更新：
 
 - **互联网企业**
 
 1. [米哈游](https://campus.mihoyo.com/#/campus)
+
+2. [网易雷火](https://leihuo.163.com/campus/#/full)
+
+3. [字节跳动](https://jobs.toutiao.com/campus/m/invite?referral_code=727FTCY)
 
 - **其他方向企业**
 
@@ -36,6 +40,16 @@
 
 - 内推码见`img/wangyi.jpg`
 <!-- ![alt](img/wangyi.jpg) -->
+
+### 3. [字节跳动 2023校园招聘提前批](https://jobs.bytedance.com/campus)
+
+- **投递时间**：7月7日 - 7月31日
+
+字节跳动校招内推码: **727FTCY** 
+
+投递链接1: https://jobs.toutiao.com/s/YEeyJHc
+
+投递连接2: https://jobs.toutiao.com/campus/m/invite?referral_code=727FTCY
 
 ## 其他方向企业招聘信息
 
