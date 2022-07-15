@@ -18,6 +18,8 @@
 
 2. [OPPO](https://careers.oppo.com/campus/)
 
+3. [荣耀](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html)
+
 ---
 
 ## 简历模板
@@ -68,6 +70,10 @@
 - **内推码** `XYDS50596019`
 
 <!-- ![alt](img/OPPO.jpg) -->
+
+### 3. [荣耀校园招聘](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html)
+
+- **内推码** `rfcfdo`
 
 ## 其他信息
 
