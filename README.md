@@ -10,6 +10,8 @@
 
 3. [字节跳动](https://jobs.toutiao.com/campus/m/invite?referral_code=727FTCY)
 
+4. [百度](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)
+
 - **其他方向企业**
 
 1. [华为](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)
@@ -50,6 +52,8 @@
 投递链接1: https://jobs.toutiao.com/s/YEeyJHc
 
 投递连接2: https://jobs.toutiao.com/campus/m/invite?referral_code=727FTCY
+
+### 4. [百度2023校园招聘提前批](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)
 
 ## 其他方向企业招聘信息
 
